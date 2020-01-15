@@ -1,6 +1,9 @@
 # awms
 ALPs Workshop Management System
 
+Software engineering group project created for the Adventure Learning Programs student organization at UW Madison.
+
+
 In order to run the web app, follow these steps:
 
     1) Download/Clone the repository onto your machine
