@@ -1,7 +1,7 @@
 # awms
 ALPs Workshop Management System
 
-Software engineering group project created for the Adventure Learning Programs student organization at UW Madison.
+Software engineering group project created for the Adventure Learning Programs student organization at UW Madison. Created to manage and simplify submitting workshop requests, viewing workshops, and the sign up process for workshops
 
 
 In order to run the web app, follow these steps:
